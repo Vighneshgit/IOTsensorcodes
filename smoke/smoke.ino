@@ -1,5 +1,5 @@
 int buzzer = LED_BUILTIN;
-int smoke = A0;
+int smoke = A0;   //read sensor
 
 // Your threshold value. You might need to change it.
 int sensorThres = 750;
